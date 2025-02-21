@@ -22,9 +22,3 @@ This project uses the YOLOv8 model for real-time object tracking in videos. The 
   frame = cv2.resize(frame, (640, 480))
   ```
 
-## 📜 License
-This project is licensed under the MIT License.
-
-## 📩 Contact
-For any issues or suggestions, feel free to reach out or raise an issue in the repository.
-
